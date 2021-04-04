@@ -2,7 +2,9 @@
 You are required to create “GOODIES BAKERY” Management system using database. This system has two Interfaces.
 • Admin
 • Customer
-ADMIN:
+
+**ADMIN:**
+
 Admin is responsible to add bakery Items, Update Items, remove Items and check the previous all bakery selling records and food inventory details.
 “-----------------------------------------    WELCOME ADMIN ------------------------------------------------"
 • AddItem
@@ -12,7 +14,8 @@ Admin is responsible to add bakery Items, Update Items, remove Items and check t
 • FoodInventoryDetails
 • Exit
 
-**CUSTOMER:
+**CUSTOMER:**
+
 Customer is responsible to select the items from menu (Their prices must be given Infront of every item), add them into cart, pay their bills and get invoice.
 You must control everything like if the selected bakery items are not enough then what should you do?
 Admin must be login first to control the bakery items. Customers must give their Name and phone numbers when they will about pay bill.
