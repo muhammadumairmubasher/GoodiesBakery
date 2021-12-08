@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "itW8e2e63j+yGDHKpsaFbZjKhpWDo+fVP9CXX4h3sy8bISL6Tk8PR15F5pB+RIIo5dUgVC9hsNeJIljR29rqjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\GoodiesBakery_BSEF18A038\\GoodiesBakery_BO\\GoodiesBakery_BO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

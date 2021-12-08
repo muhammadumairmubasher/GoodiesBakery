@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_BLL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_BO.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_PL.deps.json
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_PL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_PL.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_DAL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_BLL.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_BO.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\bin\Debug\netstandard2.0\GoodiesBakery_DAL.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_PL\obj\Debug\netstandard2.0\GoodiesBakery_PL.pdb

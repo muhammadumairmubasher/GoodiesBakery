@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\bin\Debug\netstandard2.0\GoodiesBakery_DAL.deps.json
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\bin\Debug\netstandard2.0\GoodiesBakery_DAL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\bin\Debug\netstandard2.0\GoodiesBakery_BO.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\bin\Debug\netstandard2.0\GoodiesBakery_BO.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\bin\Debug\netstandard2.0\GoodiesBakery_DAL.pdb
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.dll
+C:\Users\Administrator\Desktop\GoodiesBakery_BSEF18A038\GoodiesBakery_DAL\obj\Debug\netstandard2.0\GoodiesBakery_DAL.pdb
